@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sagun Rai</h1>
 <h3 align="center">"Passionate about code and coffee ☕"</h3>
-<img align="right" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="Coding" width="400">
+<img align="right" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="Coding" width="400" height="220">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagunrai&label=Profile%20views&color=0e75b6&style=flat" alt="sagunrai" /> </p>

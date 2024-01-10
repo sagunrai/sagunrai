@@ -1,4 +1,5 @@
-![Master head](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Banner" width="1000" height="450">
+
 <h1 align="center">Hi 👋, I'm Sagun Rai</h1>
 <h3 align="center">"Passionate about code and coffee ☕"</h3>
 <img align="right" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="Coding" width="400">

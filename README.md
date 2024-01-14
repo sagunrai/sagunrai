@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Banner" width="900" height="250">
+
 
 <h1 align="center">Hi 👋, I'm Sagun Rai</h1>
 <h3 align="center">"Passionate about code and coffee ☕"</h3>

@@ -1,15 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Sagun Rai</h1>
-<h3 align="center">"Passionate about code and coffee ☕"</h3>
+<h3 align="center">"Passionate about code"</h3>
 <img align="right" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="Coding" width="400" height="220">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagunrai&label=Profile%20views&color=0e75b6&style=flat" alt="sagunrai" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sagunraitwt" target="blank"><img src="https://img.shields.io/twitter/follow/sagunraitwt?logo=twitter&style=for-the-badge" alt="sagunraitwt" /></a> </p>
-
-- 🌱 I’m currently learning **ML**
 
 - 📫 How to reach me **sagunrai2003@gmail.com**
 
